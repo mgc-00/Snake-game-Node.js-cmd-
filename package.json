@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "name": "Snake Node",
+  "license": "ISC",
+  "main": "snake2.js",
+  "keywords": [
+    "Snake",
+    "game",
+    "command-line"
+  ],
+  "dependencies": {
+    "readline": "^1.3.0"
+  },
+  "scripts": {
+    "test": "echo \"No tests are set up yet\" && exit 1"
+  },
+  "description": "Classic Snake game for the command line (Node.js version)",
+  "devDependencies": {}
+}
